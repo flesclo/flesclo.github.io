@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://flesclo.github.io/sitemap.html.gz
+Sitemap: https://flesclo.github.io/app/sitemap.html.gz
+Sitemap: https://flesclo.github.io/assets/sitemap.html.gz
+Sitemap: https://flesclo.github.io/css/sitemap.html.gz
+Sitemap: https://flesclo.github.io/includes/sitemap.html.gz
+Sitemap: https://flesclo.github.io/item/sitemap.html.gz
+Sitemap: https://flesclo.github.io/src/sitemap.html.gz
